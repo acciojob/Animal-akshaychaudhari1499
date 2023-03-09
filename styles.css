@@ -1,6 +1,4 @@
 /*  your css code here. If applicable */
-#img{
-	display:grid;
-	grid-template-columns:1fr 1fr 1fr;
-	place-items:center;
+#photo-heading{
+	text-align:center;
 }
